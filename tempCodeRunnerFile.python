@@ -1,0 +1,32 @@
+import random
+x= random.randint(0,100)
+a=0
+a=int(input("Guess a number:"))
+life=5
+i=1
+while(a != x):
+    if(a>x and i<life):
+        print("Number is lesser than this")
+        print(f"You have {life-i} chances left")
+        a=int(input("Guess a number:"))
+        i=i+1
+        continue
+
+    elif(a<x and i<life):
+        print("Number is Higher than this")
+        print(f"You have {life-i} chances left")
+        a=int(input("Guess a number:"))
+        i=i+1
+        continue
+
+    elif(i>=life):
+        print("game over!")
+        print(f"Number was:{x}")
+        break
+
+if(a==x):
+    print("You are correct!")
+
+
+
+

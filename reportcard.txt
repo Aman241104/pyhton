@@ -1,0 +1,15 @@
+Name: Aman
+Roll Number: 79
+Class: A
+----------Marks----------
+Maths: 85
+English: 85
+Hindi: 85
+Gujrati: 85
+Science: 85
+-------------------------
+Total: 425
+Percentage: 85.0 % 
+-------------------------
+Grade: C
+Good Enough!!

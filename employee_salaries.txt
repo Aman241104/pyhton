@@ -1,0 +1,7 @@
+ram: Gross Rs.712.5, Net Rs.570.0
+shyam: Gross Rs.700.0, Net Rs.595.0
+Total Gross: Rs.1412.5, Total Net: Rs.1165.0
+
+shail: Gross Rs.750.0, Net Rs.637.5
+Total Gross: Rs.750.0, Total Net: Rs.637.5
+

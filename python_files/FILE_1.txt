@@ -1,0 +1,2 @@
+First Line by write
+Second line by append
