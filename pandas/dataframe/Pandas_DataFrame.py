@@ -9,7 +9,7 @@ df = pd.DataFrame(data)
 
 # # 2. Read a CSV file
 # df = pd.read_csv('C:\Krishna\Python\Examples\Movieratingdata3.csv')
-df = pd.read_csv('C:/Krishna/Python/Examples/Movieratingdata3.csv')
+df = pd.read_csv('C:\codeing\pyhton\pandas\dataframe\Movieratingdata3.csv')
 print(df)
 
 
@@ -54,8 +54,8 @@ print(df)
 # print(f'DataFrame after dropping column:\n{df}')
 
 # # 15. Sort by column
-sorted_df = df.sort_values(by='RATING', ascending=False)
-print(f'Sorted DataFrame:\n{sorted_df}')
+# sorted_df = df.sort_values(by='RATING', ascending=False)
+# print(f'Sorted DataFrame:\n{sorted_df}')
 
 # # 16. Group by a column and sum
 # df_grouped = df.groupby('USER_ID').sum()
